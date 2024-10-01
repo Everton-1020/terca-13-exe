@@ -1,4 +1,4 @@
-pograma {
+programa {
   funcao inicio() {
     real a 
     real b
